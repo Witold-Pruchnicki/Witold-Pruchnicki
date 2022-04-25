@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Witold Pruchnicki</h1>
 <h3 align="center">Fully committed and enthusiastic self-taught Frontend developer from Wrocław.</h3>
 
-- 🌱 I’m currently learning **React, Node.js, Express.js, Mongo.DB**
+- 🌱 I’m currently learning **React, Node.js, Express.js, Wordpress **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Witold-Pruchnicki](https://github.com/Witold-Pruchnicki)
+- 👨💻 All information about me and my resume you can find at [https://witekpruchnicki.pl](https://witekpruchnicki.pl)
+- Some time ago I started writing a blog [https://robiestronki.pl/](https://robiestronki.pl/)
 
-- Some time ago I started writing a blog based on my own Wordpress theme [https://ogarnijprogramowanie.pl/](https://ogarnijprogramowanie.pl/)
-
-- 📫 How to reach me **witold.pruchnicki@gmail.com**
+- 📫 How to reach me **kontakt@witekpruchnicki.pl**
 
 - ⚡ Fun fact **Until the end of January 2022, I serve as an officer of the land forces**
 
