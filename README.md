@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, Wordpress **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Witold-Pruchnicki](https://github.com/Witold-Pruchnicki)
+
 - 👨💻 All information about me and my resume you can find at [https://witekpruchnicki.pl](https://witekpruchnicki.pl)
 - Some time ago I started writing a blog [https://robiestronki.pl/](https://robiestronki.pl/)
 
