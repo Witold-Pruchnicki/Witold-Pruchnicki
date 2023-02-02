@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Witold Pruchnicki</h1>
 <h3 align="center">Fully committed and enthusiastic Frontend developer with passion to programming</h3>
 
- - 🤓 I’m currently working as a React Developer in Nicman Group 
+ - 🤓 I’m currently working as a Frontend developer in Scramjet  
  - 👨💻 All information about me and my resume you can find at [https://witoldpruchnicki.com](https://witoldpruchnicki.com)
 - I also have blog, where I add posts from time to time [https://witekpruchnicki.pl/](https://witekpruchnicki.pl/)
 -  You can also find me on <a href="https://www.youtube.com/channel/UCBeiijzpM57A02XdEClTPvg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/62050443/201699515-bcc42e55-5c37-4943-8e93-5bbfa94e618c.png" alt="react" width="30" height="30"/> </a> 
